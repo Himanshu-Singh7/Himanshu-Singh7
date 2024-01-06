@@ -1,16 +1,32 @@
-### Hi there 👋
+[![MasterHead]([[https://camo.githubusercontent.com/243dae85e412a143cfd923d28c88e95b6950ecd42b563e161d83d56e393275e3/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f32322f32323635376238613537376638353838323763356434366461633332636635332e676966](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdresma.ai%2Fwp-content%2Fuploads%2F2022%2F01%2FBack-End-Developer-Node-JS-1.gif&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwivzrrvssiDAxX3SGwGHWtyD5gQMygLegQIARBz..i&imgrefurl=https%3A%2F%2Fwww.dresma.ai%2Fjobs%2Fback-end-developer-nodejs%2F&docid=vUitLKrmsTgKuM&w=800&h=600&q=java%20developer%20animated%20gif&ved=2ahUKEwivzrrvssiDAxX3SGwGHWtyD5gQMygLegQIARBz)](https://www.dresma.ai/jobs/back-end-developer-nodejs/))](https://Himanshu-Singh7.io)
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+<h3 align="center">A passionate Java-Backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 
-<!--
-**Himanshu-Singh7/Himanshu-Singh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-singh7&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-singh7" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/@himansh04020689" target="blank"><img src="https://img.shields.io/twitter/follow/@himansh04020689?logo=twitter&style=for-the-badge" alt="@himansh04020689" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Microservices and Angular**
+
+- 💬 Ask me about **Spring-Boot,REST API**
+
+- 📫 How to reach me **himanshusingh0608@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@himansh04020689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@himansh04020689" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himanshu-singh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-singh9" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/himanshu_7492" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshu_7492" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/himanshusingh0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshusingh0608" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/himanshusingh0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshusingh0608" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-singh7&show_icons=true&locale=en&layout=compact" alt="himanshu-singh7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-singh7&show_icons=true&locale=en" alt="himanshu-singh7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-singh7&" alt="himanshu-singh7" /></p>
